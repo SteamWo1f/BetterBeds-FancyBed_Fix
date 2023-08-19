@@ -7,7 +7,7 @@ A fork and fix of the fancybeds in the [Better Beds](https://github.com/TeamMidn
 
 ---
 
-- The Problem:
+- Problem:
   - Texture and Model bugs in my gameplay
 - Solution:
   - This resource pack 
