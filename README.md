@@ -8,6 +8,6 @@ A fork and fix of the fancybeds in the [Better Beds](https://github.com/TeamMidn
 ---
 
 - Problem:
-  - Texture and Model bugs in my gameplay
+  - Texture and Model bugs of the fancy beds in my modpack Optimized Oasis
 - Solution:
   - This resource pack 
