@@ -3,4 +3,11 @@
 
 A fork and fix of the fancybeds in the [Better Beds](https://github.com/TeamMidnightDust/BetterBeds) mod
 
-(This pack is mainly just for my modpack [Optimized Oasis](https://steamwo1f.github.io/OOS/))
+(This resource pack is mainly just for my modpack [Optimized Oasis](https://steamwo1f.github.io/OOS/))
+
+---
+
+- The Problem:
+  - Texture and Model bugs in my gameplay
+- Solution:
+  - This resource pack 
